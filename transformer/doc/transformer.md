@@ -5,8 +5,7 @@
 在数据同步、传输过程中，存在用户对于数据传输进行特殊定制化的需求场景，包括裁剪列、转换列等工作，可以借助ETL的T过程实现(Transformer)。DataX包含了完整的E(Extract)、T(Transformer)、L(Load)支持。
 
 ## 运行模型
-
-![image](http://git.cn-hangzhou.oss.aliyun-inc.com/uploads/datax/datax/b5652c0492c394684958272219ce327c/image.png)
+![img.png](img.png)
 
 ## UDF手册
 1. dx_substr
